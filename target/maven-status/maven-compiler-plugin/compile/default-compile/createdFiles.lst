@@ -1,0 +1,4 @@
+com\person\detail\controller\Model\Person.class
+com\person\detail\controller\dao\PersonDao.class
+com\person\detail\controller\Service\PersonService.class
+com\person\detail\controller\Controller.class
